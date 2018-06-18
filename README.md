@@ -3,6 +3,7 @@ This ReactJS app fetches data from Rennes Velo Star (real time data from https:/
 Uncompress zip archive of the project and run the folowing:
 
 npm install react
+
 npm start
 
 Then point your browser to http://localhost:3000
