@@ -1,8 +1,14 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import registerServiceWorker from './registerServiceWorker';
 
-ReactDOM.render(<App />, document.getElementById('root'));
-registerServiceWorker();
+import React from 'react';
+import { render } from 'react-dom';
+import VelostarTable from './App2';
+//import MUITable from './MUITable';
+
+const rootElement = document.querySelector('#root');
+if (rootElement) {
+  render(<VelostarTable />, rootElement);
+}
+// const muiTable = document.querySelector('#muitable');
+// if (muiTable) {
+//   render(<MUITable />, muiTable);
+// }
