@@ -5,11 +5,11 @@ Sample ReactJS, Material-UI app that displays bicycle availability data from Ren
 Uncompress zip archive of the project and run the folowing:
 
 ## Prerequisites
-npm install react
+npm install react  
 npm install material-ui
 
 ## App
-npm start
+npm start  
 Then point your browser to http://localhost:3000
 
 # Versions
