@@ -15,8 +15,8 @@ Then point your browser to http://localhost:3000
 # Versions
 
 ## 0.2.0
-Use of material-ui to improve application UI
-Displayed data is stored in the app since too many requests to the Rennes data server result in a temporary request lockout
+Use of material-ui to improve application UI. 
+Displayed data is stored in the app since too many requests to the Rennes data server result in a temporary request lockout.
 
 ## 0.1
 Fetch real time bicycle availability data from Rennes Open Data server and display using React-table component  
